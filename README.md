@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trans-bug
-- 👀 I’m interested in cpp and python
+- 👀 I’m interested in cpp ,rust and web etc..
 - 🌱 I’m currently learning makefile,compile theory, etc
 - 💞️ I’m looking to collaborate on ... nothing 
 - 📫 How to reach me 
